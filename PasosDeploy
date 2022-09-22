@@ -1,0 +1,68 @@
+1- Clonar el repo:
+git clone https://github.com/sisoputnfrba/tp-2022-1c-Grupo-999
+cd /home/utnso/tp-2022-1c-Grupo-999
+git checkout mt.it4
+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
+
+2. Ejecutar el deploy.sh asi: 
+/home/utnso/tp-2022-1c-Grupo-999/deploy.sh
+
+3. Ejecutar
+sed -i 's/matias\/Desktop\/utn\/SO/utnso/g' /home/utnso/tp-2022-1c-Grupo-999/Shared/Debug/subdir.mk
+
+4. Ejecutar el make:
+make all -C /home/utnso/tp-2022-1c-Grupo-999/Shared/Debug
+
+5. Copiar Shared
+sudo cp -u /home/utnso/tp-2022-1c-Grupo-999/Shared/Debug/libShared.so /usr/lib
+sudo cp -u /home/utnso/tp-2022-1c-Grupo-999/Shared/client_utils.h /usr/local/include
+sudo cp -u /home/utnso/tp-2022-1c-Grupo-999/Shared/server_utils.h /usr/local/include
+sudo cp -u /home/utnso/tp-2022-1c-Grupo-999/Shared/shared_utils.h /usr/local/include
+
+6. Builder cada modulo
+
+make all -C /home/utnso/tp-2022-1c-Grupo-999/Memoria/Debug
+make all -C /home/utnso/tp-2022-1c-Grupo-999/CPU/Debug
+make all -C /home/utnso/tp-2022-1c-Grupo-999/Kernel/Debug
+make all -C /home/utnso/tp-2022-1c-Grupo-999/Consola/Debug
+
+7. Modificar la IP en cada módulo en su archivo de config
+
+8. Ejcuatar cada módulo
+
+MEOMRIA ---> /home/utnso/tp-2022-1c-Grupo-999/Memoria/Debug/Memoria /home/utnso/tp-2022-1c-Grupo-999/Memoria/cfg/memoria_MEMORIA_1.config
+
+CPU ---> /home/utnso/tp-2022-1c-Grupo-999/CPU/Debug/CPU /home/utnso/tp-2022-1c-Grupo-999/CPU/cfg/cpu_MEMORIA_1.config
+
+Kernel ---> /home/utnso/tp-2022-1c-Grupo-999/Kernel/Debug/Kernel /home/utnso/tp-2022-1c-Grupo-999/Kernel/cfg/kernel_INTEGRAL.config 
+
+
+
+
+CONSOLA BASE
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/BASE_1
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/BASE_2
+
+CONSOLA PLANI
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/PLANI_1
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/PLANI_1
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/PLANI_2
+
+CONSOLA SUSP
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/SUSP_1
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/SUSP_2
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  10 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/SUSP_3
+
+CONSOLA SUSP
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  4096  /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/MEMORIA_1 
+
+CONSOLA TLB
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  2048 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/TLB_1
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  2048 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/TLB_2
+
+CONSOLA integral
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  2048 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/INTEGRAL_1
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  2048 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/INTEGRAL_2
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  2048 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/INTEGRAL_3
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  2048 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/INTEGRAL_4
+/home/utnso/tp-2022-1c-Grupo-999/Consola/Debug/Consola /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/consola.config  2048 /home/utnso/tp-2022-1c-Grupo-999/Consola/cfg/INTEGRAL_5

@@ -1,0 +1,797 @@
+[INFO] 21:26:08:886 consola/(8251:8251): Se cargó la url del Kernel: (null):(null)
+[INFO] 21:27:00:411 consola/(8272:8272): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:27:00:411 consola/(8272:8272): Se parsearon #Instrucciones: 12
+[INFO] 21:27:00:412 consola/(8272:8272): Esperando Kernel
+[INFO] 21:27:01:507 consola/(8275:8275): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:27:01:507 consola/(8275:8275): Se parsearon #Instrucciones: 3
+[INFO] 21:27:01:507 consola/(8275:8275): Esperando Kernel
+[INFO] 21:27:01:528 consola/(8275:8275): Esperando Kernel OK
+[INFO] 21:27:03:519 consola/(8272:8272): Esperando Kernel OK
+[INFO] 21:29:44:888 consola/(8432:8432): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:29:44:919 consola/(8432:8432): Se parsearon #Instrucciones: 8
+[INFO] 21:29:44:919 consola/(8432:8432): Esperando Kernel
+[INFO] 21:29:46:518 consola/(8435:8435): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:29:46:519 consola/(8435:8435): Se parsearon #Instrucciones: 8
+[INFO] 21:29:46:519 consola/(8435:8435): Esperando Kernel
+[INFO] 21:29:47:496 consola/(8438:8438): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:29:47:512 consola/(8438:8438): Se parsearon #Instrucciones: 11
+[INFO] 21:29:47:513 consola/(8438:8438): Esperando Kernel
+[INFO] 21:29:49:523 consola/(8438:8438): Esperando Kernel OK
+[INFO] 21:29:50:106 consola/(8435:8435): Esperando Kernel OK
+[INFO] 21:29:50:106 consola/(8432:8432): Esperando Kernel OK
+[INFO] 21:31:27:974 consola/(8528:8528): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:31:27:997 consola/(8528:8528): Se parsearon #Instrucciones: 8
+[INFO] 21:31:27:997 consola/(8528:8528): Esperando Kernel
+[INFO] 21:31:29:355 consola/(8535:8535): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:31:29:355 consola/(8535:8535): Se parsearon #Instrucciones: 8
+[INFO] 21:31:29:356 consola/(8535:8535): Esperando Kernel
+[INFO] 21:31:30:275 consola/(8539:8539): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:31:30:276 consola/(8539:8539): Se parsearon #Instrucciones: 11
+[INFO] 21:31:30:276 consola/(8539:8539): Esperando Kernel
+[INFO] 21:31:33:451 consola/(8539:8539): Esperando Kernel OK
+[INFO] 21:31:33:451 consola/(8535:8535): Esperando Kernel OK
+[INFO] 21:31:33:451 consola/(8528:8528): Esperando Kernel OK
+[INFO] 21:33:11:654 consola/(8614:8614): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:33:11:654 consola/(8614:8614): No se pudo conectar al Kernel.
+[INFO] 21:33:23:887 consola/(8633:8633): Se cargó la url del Kernel: 127.0.0.1:4444
+[ERROR] 21:33:23:888 consola/(8633:8633): Error: no se pudo abrir el archivo de instrucciones.
+[INFO] 21:33:58:176 consola/(8705:8705): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:33:58:265 consola/(8705:8705): Se parsearon #Instrucciones: 15
+[INFO] 21:33:58:265 consola/(8705:8705): Esperando Kernel
+[INFO] 21:34:05:394 consola/(8705:8705): Esperando Kernel OK
+[INFO] 21:42:47:732 consola/(9129:9129): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:42:47:732 consola/(9129:9129): Se parsearon #Instrucciones: 8
+[INFO] 21:42:47:732 consola/(9129:9129): Esperando Kernel
+[INFO] 21:42:58:735 consola/(9129:9129): Esperando Kernel OK
+[INFO] 21:43:33:452 consola/(9173:9173): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:43:33:452 consola/(9173:9173): Se parsearon #Instrucciones: 8
+[INFO] 21:43:33:452 consola/(9173:9173): Esperando Kernel
+[INFO] 21:43:34:932 consola/(9176:9176): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:43:34:933 consola/(9176:9176): Se parsearon #Instrucciones: 8
+[INFO] 21:43:34:933 consola/(9176:9176): Esperando Kernel
+[INFO] 21:43:37:907 consola/(9179:9179): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:43:37:908 consola/(9179:9179): Se parsearon #Instrucciones: 11
+[INFO] 21:43:37:908 consola/(9179:9179): Esperando Kernel
+[INFO] 21:43:39:053 consola/(9179:9179): Esperando Kernel OK
+[INFO] 21:43:39:053 consola/(9176:9176): Esperando Kernel OK
+[INFO] 21:43:39:053 consola/(9173:9173): Esperando Kernel OK
+[INFO] 21:48:14:900 consola/(9424:9424): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:48:14:901 consola/(9424:9424): Se parsearon #Instrucciones: 8
+[INFO] 21:48:14:902 consola/(9424:9424): Esperando Kernel
+[INFO] 21:48:15:998 consola/(9427:9427): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:48:15:998 consola/(9427:9427): Se parsearon #Instrucciones: 8
+[INFO] 21:48:15:998 consola/(9427:9427): Esperando Kernel
+[INFO] 21:48:17:157 consola/(9431:9431): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:48:17:157 consola/(9431:9431): Se parsearon #Instrucciones: 11
+[INFO] 21:48:17:157 consola/(9431:9431): Esperando Kernel
+[INFO] 21:48:19:931 consola/(9431:9431): Esperando Kernel OK
+[INFO] 21:48:20:388 consola/(9427:9427): Esperando Kernel OK
+[INFO] 21:48:20:388 consola/(9424:9424): Esperando Kernel OK
+[INFO] 21:51:24:564 consola/(9550:9550): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:51:24:564 consola/(9550:9550): Se parsearon #Instrucciones: 8
+[INFO] 21:51:24:564 consola/(9550:9550): Esperando Kernel
+[INFO] 21:51:25:508 consola/(9553:9553): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:51:25:508 consola/(9553:9553): Se parsearon #Instrucciones: 8
+[INFO] 21:51:25:508 consola/(9553:9553): Esperando Kernel
+[INFO] 21:51:26:412 consola/(9556:9556): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:51:26:412 consola/(9556:9556): Se parsearon #Instrucciones: 11
+[INFO] 21:51:26:412 consola/(9556:9556): Esperando Kernel
+[INFO] 21:51:28:509 consola/(9556:9556): Esperando Kernel OK
+[INFO] 21:51:28:783 consola/(9553:9553): Esperando Kernel OK
+[INFO] 21:51:28:783 consola/(9550:9550): Esperando Kernel OK
+[INFO] 21:51:45:887 consola/(9621:9621): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:51:45:887 consola/(9621:9621): Se parsearon #Instrucciones: 8
+[INFO] 21:51:45:888 consola/(9621:9621): Esperando Kernel
+[INFO] 21:51:46:828 consola/(9624:9624): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:51:46:828 consola/(9624:9624): Se parsearon #Instrucciones: 8
+[INFO] 21:51:46:828 consola/(9624:9624): Esperando Kernel
+[INFO] 21:51:47:700 consola/(9627:9627): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:51:47:700 consola/(9627:9627): Se parsearon #Instrucciones: 11
+[INFO] 21:51:47:700 consola/(9627:9627): Esperando Kernel
+[INFO] 21:51:49:829 consola/(9627:9627): Esperando Kernel OK
+[INFO] 21:51:50:233 consola/(9624:9624): Esperando Kernel OK
+[INFO] 21:51:50:233 consola/(9621:9621): Esperando Kernel OK
+[INFO] 21:52:47:434 consola/(9748:9748): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:52:47:434 consola/(9748:9748): Se parsearon #Instrucciones: 8
+[INFO] 21:52:47:435 consola/(9748:9748): Esperando Kernel
+[INFO] 21:52:51:693 consola/(9754:9754): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:52:51:693 consola/(9754:9754): Se parsearon #Instrucciones: 8
+[INFO] 21:52:51:693 consola/(9754:9754): Esperando Kernel
+[INFO] 21:52:58:452 consola/(9748:9748): Esperando Kernel OK
+[INFO] 21:53:03:452 consola/(9754:9754): Esperando Kernel OK
+[INFO] 21:53:15:604 consola/(9780:9780): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:53:15:604 consola/(9780:9780): Se parsearon #Instrucciones: 8
+[INFO] 21:53:15:604 consola/(9780:9780): Esperando Kernel
+[INFO] 21:53:16:820 consola/(9783:9783): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:53:16:820 consola/(9783:9783): Se parsearon #Instrucciones: 11
+[INFO] 21:53:16:820 consola/(9783:9783): Esperando Kernel
+[INFO] 21:53:26:607 consola/(9783:9783): Esperando Kernel OK
+[INFO] 21:54:14:845 consola/(9864:9864): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:54:14:845 consola/(9864:9864): Se parsearon #Instrucciones: 8
+[INFO] 21:54:14:846 consola/(9864:9864): Esperando Kernel
+[INFO] 21:54:16:580 consola/(9867:9867): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 21:54:16:580 consola/(9867:9867): Se parsearon #Instrucciones: 11
+[INFO] 21:54:16:580 consola/(9867:9867): Esperando Kernel
+[INFO] 21:54:25:849 consola/(9867:9867): Esperando Kernel OK
+[INFO] 21:54:52:523 consola/(9864:9864): Esperando Kernel OK
+[INFO] 06:07:41:829 consola/(6823:6823): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:07:41:849 consola/(6823:6823): Se parsearon #Instrucciones: 8
+[INFO] 06:07:41:849 consola/(6823:6823): Esperando Kernel
+[INFO] 06:07:42:751 consola/(6826:6826): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:07:42:751 consola/(6826:6826): Se parsearon #Instrucciones: 8
+[INFO] 06:07:42:752 consola/(6826:6826): Esperando Kernel
+[INFO] 06:07:43:973 consola/(6829:6829): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:07:43:973 consola/(6829:6829): Se parsearon #Instrucciones: 11
+[INFO] 06:07:43:973 consola/(6829:6829): Esperando Kernel
+[INFO] 06:08:43:416 consola/(6829:6829): Esperando Kernel OK
+[INFO] 06:08:43:416 consola/(6826:6826): Esperando Kernel OK
+[INFO] 06:08:43:416 consola/(6823:6823): Esperando Kernel OK
+[INFO] 06:10:30:854 consola/(6976:6976): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:10:30:854 consola/(6976:6976): Se parsearon #Instrucciones: 8
+[INFO] 06:10:30:854 consola/(6976:6976): Esperando Kernel
+[INFO] 06:10:31:894 consola/(6980:6980): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:10:31:894 consola/(6980:6980): Se parsearon #Instrucciones: 8
+[INFO] 06:10:31:894 consola/(6980:6980): Esperando Kernel
+[INFO] 06:10:34:209 consola/(6983:6983): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:10:34:210 consola/(6983:6983): Se parsearon #Instrucciones: 11
+[INFO] 06:10:34:210 consola/(6983:6983): Esperando Kernel
+[INFO] 06:10:49:858 consola/(6983:6983): Esperando Kernel OK
+[INFO] 06:12:31:070 consola/(6980:6980): Esperando Kernel OK
+[INFO] 06:12:31:070 consola/(6976:6976): Esperando Kernel OK
+[INFO] 06:12:47:536 consola/(7085:7085): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:12:47:536 consola/(7085:7085): Se parsearon #Instrucciones: 8
+[INFO] 06:12:47:536 consola/(7085:7085): Esperando Kernel
+[INFO] 06:12:48:640 consola/(7088:7088): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:12:48:640 consola/(7088:7088): Se parsearon #Instrucciones: 8
+[INFO] 06:12:48:640 consola/(7088:7088): Esperando Kernel
+[INFO] 06:12:49:602 consola/(7091:7091): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:12:49:602 consola/(7091:7091): Se parsearon #Instrucciones: 11
+[INFO] 06:12:49:603 consola/(7091:7091): Esperando Kernel
+[INFO] 06:12:51:643 consola/(7091:7091): Esperando Kernel OK
+[INFO] 06:12:52:763 consola/(7088:7088): Esperando Kernel OK
+[INFO] 06:12:52:763 consola/(7085:7085): Esperando Kernel OK
+[INFO] 06:13:35:602 consola/(7168:7168): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:13:35:603 consola/(7168:7168): Se parsearon #Instrucciones: 8
+[INFO] 06:13:35:603 consola/(7168:7168): Esperando Kernel
+[INFO] 06:13:36:474 consola/(7171:7171): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:13:36:474 consola/(7171:7171): Se parsearon #Instrucciones: 8
+[INFO] 06:13:36:475 consola/(7171:7171): Esperando Kernel
+[INFO] 06:13:37:375 consola/(7174:7174): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:13:37:376 consola/(7174:7174): Se parsearon #Instrucciones: 11
+[INFO] 06:13:37:376 consola/(7174:7174): Esperando Kernel
+[INFO] 06:13:39:478 consola/(7174:7174): Esperando Kernel OK
+[INFO] 06:13:39:797 consola/(7168:7168): Esperando Kernel OK
+[INFO] 06:13:39:797 consola/(7171:7171): Esperando Kernel OK
+[INFO] 06:13:53:111 consola/(7220:7220): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:13:53:111 consola/(7220:7220): Se parsearon #Instrucciones: 8
+[INFO] 06:13:53:111 consola/(7220:7220): Esperando Kernel
+[INFO] 06:14:04:115 consola/(7220:7220): Esperando Kernel OK
+[INFO] 06:14:18:850 consola/(7244:7244): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:14:18:850 consola/(7244:7244): Se parsearon #Instrucciones: 8
+[INFO] 06:14:18:851 consola/(7244:7244): Esperando Kernel
+[INFO] 06:14:20:458 consola/(7247:7247): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:14:20:459 consola/(7247:7247): Se parsearon #Instrucciones: 8
+[INFO] 06:14:20:459 consola/(7247:7247): Esperando Kernel
+[INFO] 06:14:24:553 consola/(7247:7247): Esperando Kernel OK
+[INFO] 06:14:24:553 consola/(7244:7244): Esperando Kernel OK
+[INFO] 06:19:26:606 consola/(7453:7453): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:19:26:606 consola/(7453:7453): Se parsearon #Instrucciones: 8
+[INFO] 06:19:26:606 consola/(7453:7453): Esperando Kernel
+[INFO] 06:19:27:662 consola/(7456:7456): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:19:27:662 consola/(7456:7456): Se parsearon #Instrucciones: 8
+[INFO] 06:19:27:662 consola/(7456:7456): Esperando Kernel
+[INFO] 06:19:29:547 consola/(7459:7459): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:19:29:547 consola/(7459:7459): Se parsearon #Instrucciones: 11
+[INFO] 06:19:29:547 consola/(7459:7459): Esperando Kernel
+[INFO] 06:19:31:609 consola/(7459:7459): Esperando Kernel OK
+[INFO] 06:19:31:865 consola/(7456:7456): Esperando Kernel OK
+[INFO] 06:19:31:865 consola/(7453:7453): Esperando Kernel OK
+[INFO] 06:22:51:222 consola/(7611:7611): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:22:51:222 consola/(7611:7611): Se parsearon #Instrucciones: 8
+[INFO] 06:22:51:222 consola/(7611:7611): Esperando Kernel
+[INFO] 06:22:52:216 consola/(7614:7614): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:22:52:217 consola/(7614:7614): Se parsearon #Instrucciones: 8
+[INFO] 06:22:52:217 consola/(7614:7614): Esperando Kernel
+[INFO] 06:22:53:182 consola/(7617:7617): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:22:53:182 consola/(7617:7617): Se parsearon #Instrucciones: 11
+[INFO] 06:22:53:182 consola/(7617:7617): Esperando Kernel
+[INFO] 06:22:55:221 consola/(7617:7617): Esperando Kernel OK
+[INFO] 06:22:55:467 consola/(7614:7614): Esperando Kernel OK
+[INFO] 06:22:55:467 consola/(7611:7611): Esperando Kernel OK
+[INFO] 06:24:39:814 consola/(7674:7674): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:24:39:814 consola/(7674:7674): No se pudo conectar al Kernel.
+[INFO] 06:24:47:894 consola/(7691:7691): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:24:47:894 consola/(7691:7691): Se parsearon #Instrucciones: 8
+[INFO] 06:24:47:894 consola/(7691:7691): Esperando Kernel
+[INFO] 06:24:48:738 consola/(7694:7694): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:24:48:738 consola/(7694:7694): Se parsearon #Instrucciones: 8
+[INFO] 06:24:48:738 consola/(7694:7694): Esperando Kernel
+[INFO] 06:24:52:834 consola/(7694:7694): Esperando Kernel OK
+[INFO] 06:24:52:834 consola/(7691:7691): Esperando Kernel OK
+[INFO] 06:25:08:936 consola/(7726:7726): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:25:08:936 consola/(7726:7726): Se parsearon #Instrucciones: 8
+[INFO] 06:25:08:936 consola/(7726:7726): Esperando Kernel
+[INFO] 06:25:10:326 consola/(7729:7729): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:25:10:326 consola/(7729:7729): Se parsearon #Instrucciones: 11
+[INFO] 06:25:10:326 consola/(7729:7729): Esperando Kernel
+[INFO] 06:25:19:940 consola/(7729:7729): Esperando Kernel OK
+[INFO] 06:29:48:303 consola/(7726:7726): Esperando Kernel OK
+[INFO] 06:29:54:559 consola/(7996:7996): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:29:54:559 consola/(7996:7996): Se parsearon #Instrucciones: 8
+[INFO] 06:29:54:559 consola/(7996:7996): Esperando Kernel
+[INFO] 06:29:56:359 consola/(7999:7999): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:29:56:359 consola/(7999:7999): Se parsearon #Instrucciones: 11
+[INFO] 06:29:56:359 consola/(7999:7999): Esperando Kernel
+[INFO] 06:30:07:569 consola/(7999:7999): Esperando Kernel OK
+[INFO] 06:30:10:570 consola/(7996:7996): Esperando Kernel OK
+[INFO] 06:30:29:438 consola/(8033:8033): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:30:29:439 consola/(8033:8033): Se parsearon #Instrucciones: 8
+[INFO] 06:30:29:439 consola/(8033:8033): Esperando Kernel
+[INFO] 06:30:30:399 consola/(8036:8036): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:30:30:399 consola/(8036:8036): Se parsearon #Instrucciones: 8
+[INFO] 06:30:30:399 consola/(8036:8036): Esperando Kernel
+[INFO] 06:30:40:442 consola/(8033:8033): Esperando Kernel OK
+[INFO] 06:31:07:574 consola/(8071:8071): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:31:07:575 consola/(8071:8071): Se parsearon #Instrucciones: 8
+[INFO] 06:31:07:575 consola/(8071:8071): Esperando Kernel
+[INFO] 06:31:08:486 consola/(8074:8074): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:31:08:487 consola/(8074:8074): Se parsearon #Instrucciones: 8
+[INFO] 06:31:08:487 consola/(8074:8074): Esperando Kernel
+[INFO] 06:31:09:462 consola/(8076:8076): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:31:09:463 consola/(8076:8076): Se parsearon #Instrucciones: 11
+[INFO] 06:31:09:463 consola/(8076:8076): Esperando Kernel
+[INFO] 06:31:25:579 consola/(8076:8076): Esperando Kernel OK
+[INFO] 06:31:28:580 consola/(8071:8071): Esperando Kernel OK
+[INFO] 06:31:31:581 consola/(8074:8074): Esperando Kernel OK
+[INFO] 06:32:24:111 consola/(8135:8135): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:32:24:130 consola/(8135:8135): Se parsearon #Instrucciones: 8
+[INFO] 06:32:24:130 consola/(8135:8135): Esperando Kernel
+[INFO] 06:33:12:345 consola/(8135:8135): Esperando Kernel OK
+[INFO] 06:35:41:311 consola/(8333:8333): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:35:41:311 consola/(8333:8333): Se parsearon #Instrucciones: 8
+[INFO] 06:35:41:311 consola/(8333:8333): Esperando Kernel
+[INFO] 06:36:21:691 consola/(8333:8333): Esperando Kernel OK
+[INFO] 06:37:37:055 consola/(8412:8412): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:37:37:055 consola/(8412:8412): Se parsearon #Instrucciones: 8
+[INFO] 06:37:37:055 consola/(8412:8412): Esperando Kernel
+[INFO] 06:42:53:606 consola/(8412:8412): Esperando Kernel OK
+[INFO] 06:43:03:855 consola/(8640:8640): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:43:03:855 consola/(8640:8640): Se parsearon #Instrucciones: 8
+[INFO] 06:43:03:856 consola/(8640:8640): Esperando Kernel
+[INFO] 06:44:26:566 consola/(8640:8640): Esperando Kernel OK
+[INFO] 06:44:38:167 consola/(8740:8740): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:44:38:168 consola/(8740:8740): Se parsearon #Instrucciones: 8
+[INFO] 06:44:38:168 consola/(8740:8740): Esperando Kernel
+[INFO] 06:47:30:470 consola/(8740:8740): Esperando Kernel OK
+[INFO] 06:49:58:114 consola/(9036:9036): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:49:58:114 consola/(9036:9036): Se parsearon #Instrucciones: 8
+[INFO] 06:49:58:114 consola/(9036:9036): Esperando Kernel
+[INFO] 06:50:56:906 consola/(9036:9036): Esperando Kernel OK
+[INFO] 06:51:48:825 consola/(9114:9114): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:51:48:825 consola/(9114:9114): Se parsearon #Instrucciones: 8
+[INFO] 06:51:48:825 consola/(9114:9114): Esperando Kernel
+[INFO] 06:53:24:574 consola/(9114:9114): Esperando Kernel OK
+[INFO] 06:53:30:152 consola/(9210:9210): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:53:30:152 consola/(9210:9210): Se parsearon #Instrucciones: 8
+[INFO] 06:53:30:152 consola/(9210:9210): Esperando Kernel
+[INFO] 06:56:09:726 consola/(9210:9210): Esperando Kernel OK
+[INFO] 06:56:15:968 consola/(9327:9327): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:56:15:968 consola/(9327:9327): Se parsearon #Instrucciones: 8
+[INFO] 06:56:15:968 consola/(9327:9327): Esperando Kernel
+[INFO] 06:59:48:159 consola/(9327:9327): Esperando Kernel OK
+[INFO] 06:59:53:297 consola/(9454:9454): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 06:59:53:298 consola/(9454:9454): Se parsearon #Instrucciones: 8
+[INFO] 06:59:53:298 consola/(9454:9454): Esperando Kernel
+[INFO] 07:02:29:983 consola/(9454:9454): Esperando Kernel OK
+[INFO] 07:02:34:832 consola/(9652:9652): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:02:34:833 consola/(9652:9652): Se parsearon #Instrucciones: 8
+[INFO] 07:02:34:833 consola/(9652:9652): Esperando Kernel
+[INFO] 07:04:01:695 consola/(9652:9652): Esperando Kernel OK
+[INFO] 07:04:10:474 consola/(9711:9711): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:04:10:474 consola/(9711:9711): Se parsearon #Instrucciones: 8
+[INFO] 07:04:10:474 consola/(9711:9711): Esperando Kernel
+[INFO] 07:04:49:695 consola/(9711:9711): Esperando Kernel OK
+[INFO] 07:05:13:880 consola/(9798:9798): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:05:13:881 consola/(9798:9798): Se parsearon #Instrucciones: 8
+[INFO] 07:05:13:881 consola/(9798:9798): Esperando Kernel
+[INFO] 07:05:35:884 consola/(9798:9798): Esperando Kernel OK
+[INFO] 07:06:02:632 consola/(9836:9836): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:06:02:633 consola/(9836:9836): Se parsearon #Instrucciones: 8
+[INFO] 07:06:02:633 consola/(9836:9836): Esperando Kernel
+[INFO] 07:06:24:636 consola/(9836:9836): Esperando Kernel OK
+[INFO] 07:07:57:313 consola/(9889:9889): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:07:57:313 consola/(9889:9889): Se parsearon #Instrucciones: 8
+[INFO] 07:07:57:313 consola/(9889:9889): Esperando Kernel
+[INFO] 07:07:58:771 consola/(9894:9894): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:07:58:771 consola/(9894:9894): Se parsearon #Instrucciones: 8
+[INFO] 07:07:58:772 consola/(9894:9894): Esperando Kernel
+[INFO] 07:08:02:887 consola/(9894:9894): Esperando Kernel OK
+[INFO] 07:08:02:887 consola/(9889:9889): Esperando Kernel OK
+[INFO] 07:09:24:385 consola/(9954:9954): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:09:24:385 consola/(9954:9954): Se parsearon #Instrucciones: 8
+[INFO] 07:09:24:385 consola/(9954:9954): Esperando Kernel
+[INFO] 07:09:30:497 consola/(9957:9957): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:09:30:497 consola/(9957:9957): Se parsearon #Instrucciones: 8
+[INFO] 07:09:30:497 consola/(9957:9957): Esperando Kernel
+[INFO] 07:09:46:389 consola/(9954:9954): Esperando Kernel OK
+[INFO] 07:10:02:389 consola/(9957:9957): Esperando Kernel OK
+[INFO] 07:10:59:501 consola/(10048:10048): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:10:59:501 consola/(10048:10048): Se parsearon #Instrucciones: 8
+[INFO] 07:10:59:501 consola/(10048:10048): Esperando Kernel
+[INFO] 07:11:00:812 consola/(10051:10051): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:11:00:813 consola/(10051:10051): Se parsearon #Instrucciones: 8
+[INFO] 07:11:00:813 consola/(10051:10051): Esperando Kernel
+[INFO] 07:11:04:914 consola/(10051:10051): Esperando Kernel OK
+[INFO] 07:11:04:914 consola/(10048:10048): Esperando Kernel OK
+[INFO] 07:11:15:257 consola/(10061:10061): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:11:15:257 consola/(10061:10061): No se pudo conectar al Kernel.
+[INFO] 07:11:39:769 consola/(10081:10081): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:11:39:769 consola/(10081:10081): Se parsearon #Instrucciones: 8
+[INFO] 07:11:39:769 consola/(10081:10081): Esperando Kernel
+[INFO] 07:11:40:505 consola/(10084:10084): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:11:40:523 consola/(10084:10084): Se parsearon #Instrucciones: 8
+[INFO] 07:11:40:523 consola/(10084:10084): Esperando Kernel
+[INFO] 07:11:44:652 consola/(10084:10084): Esperando Kernel OK
+[INFO] 07:11:44:652 consola/(10081:10081): Esperando Kernel OK
+[INFO] 07:15:26:636 consola/(10377:10377): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:15:26:636 consola/(10377:10377): Se parsearon #Instrucciones: 8
+[INFO] 07:15:26:636 consola/(10377:10377): Esperando Kernel
+[INFO] 07:15:28:113 consola/(10380:10380): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:15:28:113 consola/(10380:10380): Se parsearon #Instrucciones: 8
+[INFO] 07:15:28:113 consola/(10380:10380): Esperando Kernel
+[INFO] 07:15:32:208 consola/(10380:10380): Esperando Kernel OK
+[INFO] 07:15:32:208 consola/(10377:10377): Esperando Kernel OK
+[INFO] 07:17:27:947 consola/(10509:10509): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:17:27:948 consola/(10509:10509): Se parsearon #Instrucciones: 8
+[INFO] 07:17:27:948 consola/(10509:10509): Esperando Kernel
+[INFO] 07:17:30:261 consola/(10512:10512): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:17:30:262 consola/(10512:10512): Se parsearon #Instrucciones: 8
+[INFO] 07:17:30:262 consola/(10512:10512): Esperando Kernel
+[INFO] 07:17:49:954 consola/(10509:10509): Esperando Kernel OK
+[INFO] 07:17:54:955 consola/(10512:10512): Esperando Kernel OK
+[INFO] 07:18:46:918 consola/(10568:10568): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:18:46:918 consola/(10568:10568): Se parsearon #Instrucciones: 8
+[INFO] 07:18:46:919 consola/(10568:10568): Esperando Kernel
+[INFO] 07:18:48:225 consola/(10571:10571): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:18:48:226 consola/(10571:10571): Se parsearon #Instrucciones: 8
+[INFO] 07:18:48:226 consola/(10571:10571): Esperando Kernel
+[INFO] 07:18:50:141 consola/(10575:10575): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:18:50:163 consola/(10575:10575): Se parsearon #Instrucciones: 11
+[INFO] 07:18:50:163 consola/(10575:10575): Esperando Kernel
+[INFO] 07:19:15:925 consola/(10575:10575): Esperando Kernel OK
+[INFO] 07:19:18:926 consola/(10568:10568): Esperando Kernel OK
+[INFO] 07:19:21:927 consola/(10571:10571): Esperando Kernel OK
+[INFO] 07:20:00:926 consola/(10630:10630): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:20:00:926 consola/(10630:10630): Se parsearon #Instrucciones: 8
+[INFO] 07:20:00:926 consola/(10630:10630): Esperando Kernel
+[INFO] 07:20:07:952 consola/(10630:10630): Esperando Kernel OK
+[INFO] 07:20:28:089 consola/(10657:10657): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:20:28:089 consola/(10657:10657): Se parsearon #Instrucciones: 8
+[INFO] 07:20:28:090 consola/(10657:10657): Esperando Kernel
+[INFO] 07:20:29:209 consola/(10661:10661): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:20:29:210 consola/(10661:10661): Se parsearon #Instrucciones: 8
+[INFO] 07:20:29:210 consola/(10661:10661): Esperando Kernel
+[INFO] 07:20:50:094 consola/(10657:10657): Esperando Kernel OK
+[INFO] 07:20:55:094 consola/(10661:10661): Esperando Kernel OK
+[INFO] 07:24:07:713 consola/(10751:10751): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:24:07:714 consola/(10751:10751): Se parsearon #Instrucciones: 8
+[INFO] 07:24:07:714 consola/(10751:10751): Esperando Kernel
+[INFO] 07:24:08:715 consola/(10754:10754): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:24:08:716 consola/(10754:10754): Se parsearon #Instrucciones: 8
+[INFO] 07:24:08:716 consola/(10754:10754): Esperando Kernel
+[INFO] 07:24:10:046 consola/(10757:10757): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:24:10:047 consola/(10757:10757): Se parsearon #Instrucciones: 11
+[INFO] 07:24:10:047 consola/(10757:10757): Esperando Kernel
+[INFO] 07:24:29:719 consola/(10751:10751): Esperando Kernel OK
+[INFO] 07:24:34:721 consola/(10754:10754): Esperando Kernel OK
+[INFO] 07:24:42:724 consola/(10757:10757): Esperando Kernel OK
+[INFO] 07:25:08:523 consola/(10815:10815): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:25:08:524 consola/(10815:10815): Se parsearon #Instrucciones: 8
+[INFO] 07:25:08:524 consola/(10815:10815): Esperando Kernel
+[INFO] 07:25:19:530 consola/(10815:10815): Esperando Kernel OK
+[INFO] 07:25:25:826 consola/(10824:10824): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:25:25:826 consola/(10824:10824): Se parsearon #Instrucciones: 8
+[INFO] 07:25:25:826 consola/(10824:10824): Esperando Kernel
+[INFO] 07:25:36:829 consola/(10824:10824): Esperando Kernel OK
+[INFO] 07:25:43:558 consola/(10847:10847): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:25:43:558 consola/(10847:10847): Se parsearon #Instrucciones: 8
+[INFO] 07:25:43:558 consola/(10847:10847): Esperando Kernel
+[INFO] 07:25:47:438 consola/(10852:10852): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:25:47:439 consola/(10852:10852): Se parsearon #Instrucciones: 8
+[INFO] 07:25:47:439 consola/(10852:10852): Esperando Kernel
+[INFO] 07:25:54:565 consola/(10847:10847): Esperando Kernel OK
+[INFO] 07:25:59:565 consola/(10852:10852): Esperando Kernel OK
+[INFO] 07:26:21:042 consola/(10883:10883): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:26:21:042 consola/(10883:10883): Se parsearon #Instrucciones: 8
+[INFO] 07:26:21:042 consola/(10883:10883): Esperando Kernel
+[INFO] 07:26:21:906 consola/(10886:10886): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:26:21:906 consola/(10886:10886): Se parsearon #Instrucciones: 8
+[INFO] 07:26:21:906 consola/(10886:10886): Esperando Kernel
+[INFO] 07:26:22:698 consola/(10890:10890): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:26:22:698 consola/(10890:10890): Se parsearon #Instrucciones: 11
+[INFO] 07:26:22:698 consola/(10890:10890): Esperando Kernel
+[INFO] 07:26:39:047 consola/(10890:10890): Esperando Kernel OK
+[INFO] 07:26:42:048 consola/(10883:10883): Esperando Kernel OK
+[INFO] 07:26:45:050 consola/(10886:10886): Esperando Kernel OK
+[INFO] 07:28:13:284 consola/(10983:10983): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:28:13:305 consola/(10983:10983): Se parsearon #Instrucciones: 15
+[INFO] 07:28:13:305 consola/(10983:10983): Esperando Kernel
+[INFO] 07:28:20:432 consola/(10983:10983): Esperando Kernel OK
+[INFO] 07:29:49:130 consola/(11041:11041): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:29:49:130 consola/(11041:11041): Se parsearon #Instrucciones: 15
+[INFO] 07:29:49:130 consola/(11041:11041): Esperando Kernel
+[INFO] 07:29:56:261 consola/(11041:11041): Esperando Kernel OK
+[INFO] 07:30:44:463 consola/(11119:11119): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:30:44:463 consola/(11119:11119): Se parsearon #Instrucciones: 15
+[INFO] 07:30:44:463 consola/(11119:11119): Esperando Kernel
+[INFO] 07:30:51:604 consola/(11119:11119): Esperando Kernel OK
+[INFO] 07:31:34:820 consola/(11155:11155): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:31:34:821 consola/(11155:11155): Se parsearon #Instrucciones: 15
+[INFO] 07:31:34:821 consola/(11155:11155): Esperando Kernel
+[INFO] 07:31:41:950 consola/(11155:11155): Esperando Kernel OK
+[INFO] 07:32:35:779 consola/(11199:11199): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:32:35:779 consola/(11199:11199): Se parsearon #Instrucciones: 12
+[INFO] 07:32:35:779 consola/(11199:11199): Esperando Kernel
+[INFO] 07:32:38:886 consola/(11199:11199): Esperando Kernel OK
+[INFO] 07:33:03:013 consola/(11212:11212): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:33:03:013 consola/(11212:11212): No se pudo conectar al Kernel.
+[INFO] 07:33:19:850 consola/(11230:11230): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:33:19:850 consola/(11230:11230): Se parsearon #Instrucciones: 12
+[INFO] 07:33:19:850 consola/(11230:11230): Esperando Kernel
+[INFO] 07:33:22:231 consola/(11234:11234): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:33:22:231 consola/(11234:11234): Se parsearon #Instrucciones: 3
+[INFO] 07:33:22:231 consola/(11234:11234): Esperando Kernel
+[INFO] 07:33:22:256 consola/(11234:11234): Esperando Kernel OK
+[INFO] 07:33:22:955 consola/(11230:11230): Esperando Kernel OK
+[INFO] 07:34:49:051 consola/(11294:11294): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:34:49:069 consola/(11294:11294): Se parsearon #Instrucciones: 128
+[INFO] 07:34:49:070 consola/(11294:11294): Esperando Kernel
+[INFO] 07:34:50:292 consola/(11297:11297): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:34:50:303 consola/(11297:11297): Se parsearon #Instrucciones: 128
+[INFO] 07:34:50:304 consola/(11297:11297): Esperando Kernel
+[INFO] 07:36:35:152 consola/(11294:11294): Esperando Kernel OK
+[INFO] 07:38:24:841 consola/(11297:11297): Esperando Kernel OK
+[INFO] 07:38:46:970 consola/(11603:11603): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:38:46:971 consola/(11603:11603): No se pudo conectar al Kernel.
+[INFO] 07:38:51:895 consola/(11623:11623): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:38:51:895 consola/(11623:11623): No se pudo conectar al Kernel.
+[INFO] 07:38:58:410 consola/(11647:11647): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:38:58:410 consola/(11647:11647): No se pudo conectar al Kernel.
+[INFO] 07:39:12:922 consola/(11684:11684): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:39:12:923 consola/(11684:11684): Se parsearon #Instrucciones: 128
+[INFO] 07:39:12:923 consola/(11684:11684): Esperando Kernel
+[INFO] 07:39:14:426 consola/(11687:11687): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:39:14:427 consola/(11687:11687): Se parsearon #Instrucciones: 128
+[INFO] 07:39:14:427 consola/(11687:11687): Esperando Kernel
+[INFO] 07:39:15:355 consola/(11690:11690): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:39:15:375 consola/(11690:11690): Se parsearon #Instrucciones: 203
+[INFO] 07:39:15:376 consola/(11690:11690): Esperando Kernel
+[INFO] 07:39:16:515 consola/(11693:11693): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:39:16:525 consola/(11693:11693): Se parsearon #Instrucciones: 97
+[INFO] 07:39:16:526 consola/(11693:11693): Esperando Kernel
+[INFO] 07:39:17:578 consola/(11696:11696): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:39:17:579 consola/(11696:11696): Se parsearon #Instrucciones: 193
+[INFO] 07:39:17:580 consola/(11696:11696): Esperando Kernel
+[INFO] 07:40:59:000 consola/(11684:11684): Esperando Kernel OK
+[INFO] 07:42:55:114 consola/(11687:11687): Esperando Kernel OK
+[INFO] 07:44:49:281 consola/(11690:11690): Esperando Kernel OK
+[INFO] 07:47:03:842 consola/(11693:11693): Esperando Kernel OK
+[INFO] 07:48:34:900 consola/(11696:11696): Esperando Kernel OK
+[INFO] 07:57:30:230 consola/(13229:13229): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:57:30:230 consola/(13229:13229): Se parsearon #Instrucciones: 15
+[INFO] 07:57:30:231 consola/(13229:13229): Esperando Kernel
+[INFO] 07:57:37:372 consola/(13229:13229): Esperando Kernel OK
+[INFO] 07:58:32:222 consola/(13402:13402): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:58:32:222 consola/(13402:13402): Se parsearon #Instrucciones: 8
+[INFO] 07:58:32:222 consola/(13402:13402): Esperando Kernel
+[INFO] 07:58:37:229 consola/(13407:13407): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 07:58:37:229 consola/(13407:13407): Se parsearon #Instrucciones: 8
+[INFO] 07:58:37:229 consola/(13407:13407): Esperando Kernel
+[INFO] 07:58:43:232 consola/(13402:13402): Esperando Kernel OK
+[INFO] 07:58:48:233 consola/(13407:13407): Esperando Kernel OK
+[INFO] 08:06:17:700 consola/(13996:13996): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:06:17:700 consola/(13996:13996): Se parsearon #Instrucciones: 128
+[INFO] 08:06:17:700 consola/(13996:13996): Esperando Kernel
+[INFO] 08:06:19:660 consola/(13999:13999): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:06:19:660 consola/(13999:13999): Se parsearon #Instrucciones: 128
+[INFO] 08:06:19:660 consola/(13999:13999): Esperando Kernel
+[INFO] 08:06:56:876 consola/(14032:14032): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:06:56:876 consola/(14032:14032): Se parsearon #Instrucciones: 12
+[INFO] 08:06:56:876 consola/(14032:14032): Esperando Kernel
+[INFO] 08:06:59:980 consola/(14032:14032): Esperando Kernel OK
+[INFO] 08:07:00:189 consola/(14038:14038): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:07:00:189 consola/(14038:14038): Se parsearon #Instrucciones: 3
+[INFO] 08:07:00:189 consola/(14038:14038): Esperando Kernel
+[INFO] 08:07:00:302 consola/(14038:14038): Esperando Kernel OK
+[INFO] 08:07:45:668 consola/(14116:14116): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:07:45:668 consola/(14116:14116): Se parsearon #Instrucciones: 12
+[INFO] 08:07:45:668 consola/(14116:14116): Esperando Kernel
+[INFO] 08:07:46:854 consola/(14120:14120): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:07:46:854 consola/(14120:14120): Se parsearon #Instrucciones: 3
+[INFO] 08:07:46:855 consola/(14120:14120): Esperando Kernel
+[INFO] 08:07:46:878 consola/(14120:14120): Esperando Kernel OK
+[INFO] 08:07:48:868 consola/(14116:14116): Esperando Kernel OK
+[INFO] 08:08:16:732 consola/(14202:14202): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:08:16:732 consola/(14202:14202): Se parsearon #Instrucciones: 12
+[INFO] 08:08:16:732 consola/(14202:14202): Esperando Kernel
+[INFO] 08:08:18:140 consola/(14267:14267): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:08:18:140 consola/(14267:14267): Se parsearon #Instrucciones: 3
+[INFO] 08:08:18:140 consola/(14267:14267): Esperando Kernel
+[INFO] 08:08:18:161 consola/(14267:14267): Esperando Kernel OK
+[INFO] 08:08:19:972 consola/(14202:14202): Esperando Kernel OK
+[INFO] 08:08:48:780 consola/(14369:14369): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:08:48:780 consola/(14369:14369): Se parsearon #Instrucciones: 12
+[INFO] 08:08:48:780 consola/(14369:14369): Esperando Kernel
+[INFO] 08:08:49:591 consola/(14372:14372): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:08:49:592 consola/(14372:14372): Se parsearon #Instrucciones: 3
+[INFO] 08:08:49:592 consola/(14372:14372): Esperando Kernel
+[INFO] 08:08:49:615 consola/(14372:14372): Esperando Kernel OK
+[INFO] 08:08:51:884 consola/(14369:14369): Esperando Kernel OK
+[INFO] 08:09:31:700 consola/(14464:14464): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:09:31:700 consola/(14464:14464): Se parsearon #Instrucciones: 12
+[INFO] 08:09:31:700 consola/(14464:14464): Esperando Kernel
+[INFO] 08:09:33:140 consola/(14467:14467): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:09:33:140 consola/(14467:14467): Se parsearon #Instrucciones: 3
+[INFO] 08:09:33:140 consola/(14467:14467): Esperando Kernel
+[INFO] 08:09:33:161 consola/(14467:14467): Esperando Kernel OK
+[INFO] 08:10:22:611 consola/(14464:14464): Esperando Kernel OK
+[INFO] 08:10:25:196 consola/(14519:14519): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:10:25:197 consola/(14519:14519): Se parsearon #Instrucciones: 12
+[INFO] 08:10:25:197 consola/(14519:14519): Esperando Kernel
+[INFO] 08:10:26:233 consola/(14522:14522): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:10:26:233 consola/(14522:14522): Se parsearon #Instrucciones: 3
+[INFO] 08:10:26:233 consola/(14522:14522): Esperando Kernel
+[INFO] 08:10:26:258 consola/(14522:14522): Esperando Kernel OK
+[INFO] 08:10:28:391 consola/(14519:14519): Esperando Kernel OK
+[INFO] 08:10:48:732 consola/(14600:14600): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:10:48:732 consola/(14600:14600): Se parsearon #Instrucciones: 12
+[INFO] 08:10:48:732 consola/(14600:14600): Esperando Kernel
+[INFO] 08:10:49:780 consola/(14603:14603): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:10:49:780 consola/(14603:14603): Se parsearon #Instrucciones: 3
+[INFO] 08:10:49:780 consola/(14603:14603): Esperando Kernel
+[INFO] 08:10:49:802 consola/(14603:14603): Esperando Kernel OK
+[INFO] 08:10:51:841 consola/(14600:14600): Esperando Kernel OK
+[INFO] 08:11:16:365 consola/(14651:14651): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:11:16:366 consola/(14651:14651): Se parsearon #Instrucciones: 12
+[INFO] 08:11:16:366 consola/(14651:14651): Esperando Kernel
+[INFO] 08:11:17:204 consola/(14654:14654): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:11:17:204 consola/(14654:14654): Se parsearon #Instrucciones: 3
+[INFO] 08:11:17:204 consola/(14654:14654): Esperando Kernel
+[INFO] 08:11:17:225 consola/(14654:14654): Esperando Kernel OK
+[INFO] 08:11:19:470 consola/(14651:14651): Esperando Kernel OK
+[INFO] 08:11:57:111 consola/(14724:14724): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:11:57:111 consola/(14724:14724): Se parsearon #Instrucciones: 12
+[INFO] 08:11:57:111 consola/(14724:14724): Esperando Kernel
+[INFO] 08:11:57:972 consola/(14727:14727): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 08:11:57:972 consola/(14727:14727): Se parsearon #Instrucciones: 3
+[INFO] 08:11:57:972 consola/(14727:14727): Esperando Kernel
+[INFO] 08:11:57:994 consola/(14727:14727): Esperando Kernel OK
+[INFO] 08:12:00:327 consola/(14724:14724): Esperando Kernel OK
+[INFO] 09:27:35:652 consola/(18821:18821): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:27:35:653 consola/(18821:18821): Se parsearon #Instrucciones: 8
+[INFO] 09:27:35:653 consola/(18821:18821): Esperando Kernel
+[INFO] 09:29:00:941 consola/(18821:18821): Esperando Kernel OK
+[INFO] 09:29:19:720 consola/(19029:19029): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:29:19:721 consola/(19029:19029): Se parsearon #Instrucciones: 8
+[INFO] 09:29:19:721 consola/(19029:19029): Esperando Kernel
+[INFO] 09:29:30:724 consola/(19029:19029): Esperando Kernel OK
+[INFO] 09:30:08:864 consola/(19091:19091): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:30:08:865 consola/(19091:19091): Se parsearon #Instrucciones: 8
+[INFO] 09:30:08:865 consola/(19091:19091): Esperando Kernel
+[INFO] 09:30:09:459 consola/(19094:19094): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:30:09:460 consola/(19094:19094): Se parsearon #Instrucciones: 11
+[INFO] 09:30:09:460 consola/(19094:19094): Esperando Kernel
+[INFO] 09:30:21:869 consola/(19094:19094): Esperando Kernel OK
+[INFO] 09:30:24:870 consola/(19091:19091): Esperando Kernel OK
+[INFO] 09:33:09:825 consola/(19205:19205): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:33:09:825 consola/(19205:19205): Se parsearon #Instrucciones: 8
+[INFO] 09:33:09:825 consola/(19205:19205): Esperando Kernel
+[INFO] 09:33:10:673 consola/(19208:19208): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:33:10:673 consola/(19208:19208): Se parsearon #Instrucciones: 8
+[INFO] 09:33:10:673 consola/(19208:19208): Esperando Kernel
+[INFO] 09:33:31:829 consola/(19205:19205): Esperando Kernel OK
+[INFO] 09:33:36:829 consola/(19208:19208): Esperando Kernel OK
+[INFO] 09:49:42:490 consola/(20696:20696): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:49:42:490 consola/(20696:20696): Se parsearon #Instrucciones: 8
+[INFO] 09:49:42:490 consola/(20696:20696): Esperando Kernel
+[INFO] 09:49:43:714 consola/(20699:20699): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:49:43:715 consola/(20699:20699): Se parsearon #Instrucciones: 8
+[INFO] 09:49:43:715 consola/(20699:20699): Esperando Kernel
+[INFO] 09:50:04:495 consola/(20696:20696): Esperando Kernel OK
+[INFO] 09:50:09:495 consola/(20699:20699): Esperando Kernel OK
+[INFO] 09:53:01:358 consola/(20876:20876): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:53:01:358 consola/(20876:20876): Se parsearon #Instrucciones: 8
+[INFO] 09:53:01:359 consola/(20876:20876): Esperando Kernel
+[INFO] 09:53:02:197 consola/(20879:20879): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:53:02:197 consola/(20879:20879): Se parsearon #Instrucciones: 8
+[INFO] 09:53:02:197 consola/(20879:20879): Esperando Kernel
+[INFO] 09:53:23:365 consola/(20876:20876): Esperando Kernel OK
+[INFO] 09:53:28:366 consola/(20879:20879): Esperando Kernel OK
+[INFO] 09:54:31:786 consola/(21082:21082): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:54:31:786 consola/(21082:21082): Se parsearon #Instrucciones: 8
+[INFO] 09:54:31:786 consola/(21082:21082): Esperando Kernel
+[INFO] 09:54:33:447 consola/(21087:21087): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 09:54:33:447 consola/(21087:21087): Se parsearon #Instrucciones: 8
+[INFO] 09:54:33:447 consola/(21087:21087): Esperando Kernel
+[INFO] 09:54:53:790 consola/(21082:21082): Esperando Kernel OK
+[INFO] 09:54:58:791 consola/(21087:21087): Esperando Kernel OK
+[INFO] 10:01:03:151 consola/(21457:21457): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:01:03:151 consola/(21457:21457): Se parsearon #Instrucciones: 8
+[INFO] 10:01:03:152 consola/(21457:21457): Esperando Kernel
+[INFO] 10:01:04:226 consola/(21460:21460): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:01:04:226 consola/(21460:21460): Se parsearon #Instrucciones: 8
+[INFO] 10:01:04:226 consola/(21460:21460): Esperando Kernel
+[INFO] 10:01:25:158 consola/(21457:21457): Esperando Kernel OK
+[INFO] 10:01:30:159 consola/(21460:21460): Esperando Kernel OK
+[INFO] 10:07:36:879 consola/(22514:22514): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:07:36:880 consola/(22514:22514): Se parsearon #Instrucciones: 8
+[INFO] 10:07:36:880 consola/(22514:22514): Esperando Kernel
+[INFO] 10:07:37:583 consola/(22517:22517): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:07:37:583 consola/(22517:22517): Se parsearon #Instrucciones: 8
+[INFO] 10:07:37:583 consola/(22517:22517): Esperando Kernel
+[INFO] 10:07:58:885 consola/(22514:22514): Esperando Kernel OK
+[INFO] 10:08:03:884 consola/(22517:22517): Esperando Kernel OK
+[INFO] 10:11:31:620 consola/(22806:22806): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:11:31:621 consola/(22806:22806): Se parsearon #Instrucciones: 8
+[INFO] 10:11:31:621 consola/(22806:22806): Esperando Kernel
+[INFO] 10:11:33:748 consola/(22809:22809): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:11:33:749 consola/(22809:22809): Se parsearon #Instrucciones: 8
+[INFO] 10:11:33:749 consola/(22809:22809): Esperando Kernel
+[INFO] 10:11:53:626 consola/(22806:22806): Esperando Kernel OK
+[INFO] 10:11:58:626 consola/(22809:22809): Esperando Kernel OK
+[INFO] 10:16:19:462 consola/(23194:23194): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:16:19:463 consola/(23194:23194): Se parsearon #Instrucciones: 8
+[INFO] 10:16:19:463 consola/(23194:23194): Esperando Kernel
+[INFO] 10:16:20:503 consola/(23197:23197): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:16:20:504 consola/(23197:23197): Se parsearon #Instrucciones: 8
+[INFO] 10:16:20:504 consola/(23197:23197): Esperando Kernel
+[INFO] 10:16:41:469 consola/(23194:23194): Esperando Kernel OK
+[INFO] 10:16:46:470 consola/(23197:23197): Esperando Kernel OK
+[INFO] 10:21:08:340 consola/(23617:23617): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:21:08:340 consola/(23617:23617): No se pudo conectar al Kernel.
+[INFO] 10:21:09:187 consola/(23618:23618): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:21:09:187 consola/(23618:23618): No se pudo conectar al Kernel.
+[INFO] 10:21:49:487 consola/(23696:23696): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:21:49:487 consola/(23696:23696): Se parsearon #Instrucciones: 8
+[INFO] 10:21:49:487 consola/(23696:23696): Esperando Kernel
+[INFO] 10:21:51:804 consola/(23699:23699): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 10:21:51:804 consola/(23699:23699): Se parsearon #Instrucciones: 8
+[INFO] 10:21:51:804 consola/(23699:23699): Esperando Kernel
+[INFO] 10:22:11:495 consola/(23696:23696): Esperando Kernel OK
+[INFO] 10:22:16:495 consola/(23699:23699): Esperando Kernel OK
+[INFO] 11:09:43:966 consola/(26917:26917): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 11:09:43:966 consola/(26917:26917): Se parsearon #Instrucciones: 8
+[INFO] 11:09:43:966 consola/(26917:26917): Esperando Kernel
+[INFO] 11:09:45:538 consola/(26920:26920): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 11:09:45:538 consola/(26920:26920): Se parsearon #Instrucciones: 8
+[INFO] 11:09:45:539 consola/(26920:26920): Esperando Kernel
+[INFO] 11:10:38:030 consola/(26953:26953): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 11:10:38:030 consola/(26953:26953): Se parsearon #Instrucciones: 8
+[INFO] 11:10:38:030 consola/(26953:26953): Esperando Kernel
+[INFO] 12:09:14:960 consola/(26953:26953): Esperando Kernel OK
+[INFO] 12:09:31:420 consola/(30035:30035): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:09:31:420 consola/(30035:30035): Se parsearon #Instrucciones: 8
+[INFO] 12:09:31:420 consola/(30035:30035): Esperando Kernel
+[INFO] 12:09:32:993 consola/(30038:30038): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:09:32:993 consola/(30038:30038): Se parsearon #Instrucciones: 8
+[INFO] 12:09:32:993 consola/(30038:30038): Esperando Kernel
+[INFO] 12:09:53:425 consola/(30035:30035): Esperando Kernel OK
+[INFO] 12:09:58:426 consola/(30038:30038): Esperando Kernel OK
+[INFO] 12:10:50:759 consola/(30183:30183): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:10:50:782 consola/(30183:30183): Se parsearon #Instrucciones: 10
+[INFO] 12:10:50:782 consola/(30183:30183): Esperando Kernel
+[INFO] 12:10:51:582 consola/(30186:30186): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:10:51:586 consola/(30186:30186): Se parsearon #Instrucciones: 6
+[INFO] 12:10:51:586 consola/(30186:30186): Esperando Kernel
+[INFO] 12:10:52:185 consola/(30189:30189): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:10:52:185 consola/(30189:30189): Se parsearon #Instrucciones: 6
+[INFO] 12:10:52:186 consola/(30189:30189): Esperando Kernel
+[INFO] 12:11:01:787 consola/(30183:30183): Esperando Kernel OK
+[INFO] 12:11:03:789 consola/(30186:30186): Esperando Kernel OK
+[INFO] 12:11:08:791 consola/(30189:30189): Esperando Kernel OK
+[INFO] 12:11:59:761 consola/(30242:30242): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:11:59:778 consola/(30242:30242): Se parsearon #Instrucciones: 8
+[INFO] 12:11:59:778 consola/(30242:30242): Esperando Kernel
+[INFO] 12:12:00:457 consola/(30247:30247): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:12:00:458 consola/(30247:30247): Se parsearon #Instrucciones: 8
+[INFO] 12:12:00:458 consola/(30247:30247): Esperando Kernel
+[INFO] 12:12:01:083 consola/(30250:30250): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:12:01:104 consola/(30250:30250): Se parsearon #Instrucciones: 11
+[INFO] 12:12:01:104 consola/(30250:30250): Esperando Kernel
+[INFO] 12:12:10:784 consola/(30242:30242): Esperando Kernel OK
+[INFO] 12:12:15:787 consola/(30247:30247): Esperando Kernel OK
+[INFO] 12:12:23:790 consola/(30250:30250): Esperando Kernel OK
+[INFO] 12:13:51:922 consola/(30358:30358): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:13:51:922 consola/(30358:30358): Se parsearon #Instrucciones: 8
+[INFO] 12:13:51:922 consola/(30358:30358): Esperando Kernel
+[INFO] 12:13:52:651 consola/(30361:30361): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:13:52:651 consola/(30361:30361): Se parsearon #Instrucciones: 8
+[INFO] 12:13:52:651 consola/(30361:30361): Esperando Kernel
+[INFO] 12:13:53:258 consola/(30363:30363): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:13:53:258 consola/(30363:30363): Se parsearon #Instrucciones: 11
+[INFO] 12:13:53:258 consola/(30363:30363): Esperando Kernel
+[INFO] 12:14:09:928 consola/(30363:30363): Esperando Kernel OK
+[INFO] 12:14:12:929 consola/(30358:30358): Esperando Kernel OK
+[INFO] 12:14:15:930 consola/(30361:30361): Esperando Kernel OK
+[INFO] 12:19:31:301 consola/(30761:30761): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:19:31:301 consola/(30761:30761): Se parsearon #Instrucciones: 8
+[INFO] 12:19:31:301 consola/(30761:30761): Esperando Kernel
+[INFO] 12:19:32:464 consola/(30764:30764): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:19:32:464 consola/(30764:30764): Se parsearon #Instrucciones: 8
+[INFO] 12:19:32:464 consola/(30764:30764): Esperando Kernel
+[INFO] 12:19:33:709 consola/(30766:30766): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:19:33:710 consola/(30766:30766): Se parsearon #Instrucciones: 11
+[INFO] 12:19:33:710 consola/(30766:30766): Esperando Kernel
+[INFO] 12:19:49:306 consola/(30766:30766): Esperando Kernel OK
+[INFO] 12:19:52:307 consola/(30761:30761): Esperando Kernel OK
+[INFO] 12:19:55:308 consola/(30764:30764): Esperando Kernel OK
+[INFO] 12:20:28:458 consola/(30902:30902): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:20:28:458 consola/(30902:30902): Se parsearon #Instrucciones: 8
+[INFO] 12:20:28:458 consola/(30902:30902): Esperando Kernel
+[INFO] 12:20:42:146 consola/(30924:30924): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:20:42:146 consola/(30924:30924): Se parsearon #Instrucciones: 8
+[INFO] 12:20:42:146 consola/(30924:30924): Esperando Kernel
+[INFO] 12:20:43:058 consola/(30927:30927): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:20:43:058 consola/(30927:30927): Se parsearon #Instrucciones: 8
+[INFO] 12:20:43:058 consola/(30927:30927): Esperando Kernel
+[INFO] 12:20:43:738 consola/(30929:30929): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:20:43:738 consola/(30929:30929): Se parsearon #Instrucciones: 8
+[INFO] 12:20:43:738 consola/(30929:30929): Esperando Kernel
+[INFO] 12:21:20:154 consola/(30924:30924): Esperando Kernel OK
+[INFO] 12:21:23:156 consola/(30927:30927): Esperando Kernel OK
+[INFO] 12:21:26:158 consola/(30929:30929): Esperando Kernel OK
+[INFO] 12:22:02:798 consola/(31010:31010): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:22:02:799 consola/(31010:31010): Se parsearon #Instrucciones: 8
+[INFO] 12:22:02:799 consola/(31010:31010): Esperando Kernel
+[INFO] 12:22:03:442 consola/(31014:31014): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:22:03:442 consola/(31014:31014): Se parsearon #Instrucciones: 8
+[INFO] 12:22:03:442 consola/(31014:31014): Esperando Kernel
+[INFO] 12:22:03:938 consola/(31020:31020): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:22:03:956 consola/(31020:31020): Se parsearon #Instrucciones: 11
+[INFO] 12:22:03:956 consola/(31020:31020): Esperando Kernel
+[INFO] 12:22:31:805 consola/(31020:31020): Esperando Kernel OK
+[INFO] 12:22:34:807 consola/(31010:31010): Esperando Kernel OK
+[INFO] 12:22:37:810 consola/(31014:31014): Esperando Kernel OK
+[INFO] 12:25:28:375 consola/(31279:31279): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:25:28:395 consola/(31279:31279): Se parsearon #Instrucciones: 15
+[INFO] 12:25:28:395 consola/(31279:31279): Esperando Kernel
+[INFO] 12:27:27:425 consola/(31279:31279): Esperando Kernel OK
+[INFO] 12:29:21:607 consola/(31479:31479): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:29:21:645 consola/(31479:31479): Se parsearon #Instrucciones: 12
+[INFO] 12:29:21:645 consola/(31479:31479): Esperando Kernel
+[INFO] 12:29:22:236 consola/(31482:31482): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:29:22:237 consola/(31482:31482): Se parsearon #Instrucciones: 3
+[INFO] 12:29:22:237 consola/(31482:31482): Esperando Kernel
+[INFO] 12:30:48:663 consola/(31482:31482): Esperando Kernel OK
+[INFO] 12:31:06:668 consola/(31479:31479): Esperando Kernel OK
+[INFO] 12:34:33:079 consola/(31808:31808): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:34:33:094 consola/(31808:31808): Se parsearon #Instrucciones: 128
+[INFO] 12:34:33:094 consola/(31808:31808): Esperando Kernel
+[INFO] 12:34:33:867 consola/(31812:31812): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:34:33:904 consola/(31812:31812): Se parsearon #Instrucciones: 128
+[INFO] 12:34:33:904 consola/(31812:31812): Esperando Kernel
+[INFO] 12:34:34:623 consola/(31815:31815): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:34:34:624 consola/(31815:31815): Se parsearon #Instrucciones: 128
+[INFO] 12:34:34:625 consola/(31815:31815): Esperando Kernel
+[INFO] 12:34:39:778 consola/(31812:31812): Esperando Kernel OK
+[INFO] 12:34:39:778 consola/(31808:31808): Esperando Kernel OK
+[INFO] 12:35:13:444 consola/(31959:31959): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:35:13:444 consola/(31959:31959): Se parsearon #Instrucciones: 128
+[INFO] 12:35:13:445 consola/(31959:31959): Esperando Kernel
+[INFO] 12:35:18:435 consola/(31963:31963): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:35:18:436 consola/(31963:31963): Se parsearon #Instrucciones: 128
+[INFO] 12:35:18:436 consola/(31963:31963): Esperando Kernel
+[INFO] 12:35:19:175 consola/(31966:31966): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:35:19:197 consola/(31966:31966): Se parsearon #Instrucciones: 203
+[INFO] 12:35:19:198 consola/(31966:31966): Esperando Kernel
+[INFO] 12:35:20:291 consola/(31969:31969): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:35:20:314 consola/(31969:31969): Se parsearon #Instrucciones: 97
+[INFO] 12:35:20:314 consola/(31969:31969): Esperando Kernel
+[INFO] 12:35:21:027 consola/(31974:31974): Se cargó la url del Kernel: 127.0.0.1:4444
+[INFO] 12:35:21:028 consola/(31974:31974): Se parsearon #Instrucciones: 193
+[INFO] 12:35:21:028 consola/(31974:31974): Esperando Kernel
+[INFO] 12:37:29:074 consola/(31959:31959): Esperando Kernel OK
+[INFO] 12:39:49:154 consola/(31963:31963): Esperando Kernel OK
+[INFO] 12:43:15:770 consola/(31966:31966): Esperando Kernel OK
+[INFO] 12:45:37:833 consola/(31969:31969): Esperando Kernel OK
+[INFO] 12:47:25:384 consola/(31974:31974): Esperando Kernel OK

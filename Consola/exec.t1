@@ -1,0 +1,6 @@
+#!/bin/bash
+FILE=Consola
+make $FILE
+if test -f "./$FILE"; then
+    ./$FILE ./cfg/consola.config 2048 ./cfg/TLB_1
+fi

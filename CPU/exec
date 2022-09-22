@@ -1,0 +1,6 @@
+#!/bin/bash
+FILE=CPU
+make $FILE
+if test -f "./$FILE"; then
+    ./$FILE ./cfg/cpu.config
+fi

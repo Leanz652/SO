@@ -1,0 +1,6 @@
+#!/bin/bash
+FILE=Consola
+make $FILE
+if test -f "./$FILE"; then
+    ./$FILE ./cfg/consola.config 5 ./cfg/SUSP_2
+fi
